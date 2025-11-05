@@ -14,7 +14,7 @@ I design **agentic AI simulations** and **network-analytic workflows** that turn
 
 - **M.A. Thesis: “When Structure Takes Over”** *(public)*  
   Network-level evidence (triadic closure) explaining persistent outsourcing post-shortage, beyond firm capacity/policy.  
-  → [Thesis Link – Knowledge@UChicago](https://doi.org/10.6082/UCHICAGO.15924)
+  → [Thesis Link – Knowledge@UChicago](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C14&q=When+Structure+Takes+Over%3A+The+Autonomy+of+Global+Supply+Chain+Networks+Beyond+Firm+Capacity+and+Institutional+Constraints&btnG=)
 
 ## What I’m good at (in practice)
 - Turning **raw APIs** → clean **network datasets**  
