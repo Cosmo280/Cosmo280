@@ -4,8 +4,8 @@ I design **agentic AI simulations** and **network-analytic workflows** that turn
 
 - 🎓 M.A. Computational Social Science, University of Chicago (Aug 2025)
 - 🔬 RA: LLM **focus-group agent** simulation; political-music **bipartite network** analysis
-- 🧠 Specialties: **SNA (ERGM, QAP)** · **LLM agent workflows** · **API-based data collection** · **reproducible analysis**
-- 🛠️ Stack: Python (pandas, NumPy, scikit-learn, matplotlib, networkx), R (ergm), SQL, Git/GitHub, Refinitiv Eikon API
+- 🧠 Specialties: **Social Network Analysis (Visualization, ERGM, QAP)** · **LLM agent workflows** · **API-based data collection** · **reproducible analysis**
+- 🛠️ Stack: Python (pandas, NumPy, scikit-learn, matplotlib, networkx), R (ggplot, ERGM, QAP), SQL, Git/GitHub, Refinitiv Eikon API
 
 ## Featured Projects
 - **Semiconductor Supply-Chain Data Collector & Visualizations** *(pinned)*  
@@ -14,7 +14,7 @@ I design **agentic AI simulations** and **network-analytic workflows** that turn
 
 - **M.A. Thesis: “When Structure Takes Over”** *(public)*  
   Network-level evidence (triadic closure) explaining persistent outsourcing post-shortage, beyond firm capacity/policy.  
-  → [Thesis repository](<ADD_LINK>) / [PDF](<ADD_LINK>)
+  → [Thesis Link](https://knowledge.uchicago.edu/record/15924?v=pdf)
 
 ## What I’m good at (in practice)
 - Turning **raw APIs** → clean **network datasets**  
